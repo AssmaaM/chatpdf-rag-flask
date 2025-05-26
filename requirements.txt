@@ -1,0 +1,10 @@
+Flask
+langchain
+langchain-community
+ollama
+sqlalchemy
+pymysql
+PyMuPDF
+chromadb
+uuid
+pywin32; platform_system == "Windows"
